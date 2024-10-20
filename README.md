@@ -1,43 +1,31 @@
-# Chirpy Starter
+## About Me
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+### SITA Field Engineer | Airport Technology Specialist
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+Hello, and welcome to my page! I’m a **SITA Field Engineer** working at **Al Jouf Airport**, where I’m responsible for ensuring the smooth operation of critical airport systems. As part of my role, I manage, troubleshoot, and support a wide range of technology solutions that keep the airport running efficiently.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+### My Role
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+As a **Field Engineer**, my day-to-day work involves:
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+- **IT Systems Maintenance:** Maintaining and troubleshooting key systems that support airport operations, including baggage handling systems, flight information displays, check-in kiosks, and network infrastructure.
+  
+- **Passenger Services:** Ensuring the reliability of systems like boarding pass scanners and baggage drop systems, which are critical to smooth passenger processing.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+- **Flight Data Management:** Overseeing systems that provide real-time flight information to staff, passengers, and airlines. This includes keeping all systems synced to ensure accurate data is displayed across the airport.
 
-## Usage
+- **Collaboration with Airlines and Airport Authorities:** I work closely with airline operators, the Civil Aviation Authority (CAA), and other stakeholders to ensure seamless operations and fast resolution of any technical issues that arise.
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+### My Expertise
 
-## Contributing
+- **System Integration:** I specialize in integrating various IT solutions to streamline airport operations and improve the passenger experience.
+  
+- **Problem Solving:** A significant part of my job is to swiftly diagnose and resolve technical issues under pressure, ensuring minimal disruption to airport operations.
+  
+- **Automation and Optimization:** Continuously working to improve system efficiency through automation and proactive monitoring.
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+### Why I Love My Job
 
-## License
+Working as a **SITA Field Engineer** allows me to be at the forefront of technology in aviation. Every day presents a new challenge, from troubleshooting issues under tight deadlines to collaborating with multiple stakeholders in high-pressure environments. The satisfaction of ensuring flights take off and land safely through the support of technology is what drives me.
 
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+---
