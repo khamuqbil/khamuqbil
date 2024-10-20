@@ -14,8 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
-
+title: "Your Name's Blog"
+description: "Welcome to my personal site. I'm a Field Engineer at SITA."
+author:
+  name: "Your Name"
+  avatar: "/assets/img/khalid-avatar.jpg"
+  bio: "Field Engineer at SITA, working at an airport."
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
