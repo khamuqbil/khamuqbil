@@ -14,13 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Khalid Alkhaldi"
-description: "Welcome to my personal site. I'm a Field Engineer at SITA."
-author:
-  name: "Khalid Alkhaldi"
-  avatar: "/assets/avatar.jpg"
-  bio: "Field Engineer at SITA, working at an airport."
-tagline: FE Developers # it will display as the subtitle
+title: Khalid Alkhaldi # the main title
+
+tagline: Khalid's Space # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -92,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode:  [light | dark]
+# theme_mode:  [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
