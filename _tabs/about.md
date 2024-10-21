@@ -26,7 +26,7 @@ I am a **SITA Field Engineer** based at **Al Jouf Airport**, where I play a pivo
 
 ### Personal Projects
 
-- **www.jouf.app:** As a personal project, I developed and launched **[www.jouf.app]**(www.jouf.app), a platform created freely for my community in Al Jouf. This project helps residents and airport staff stay updated on flight schedules and provides helpful information about travel and aviation. The success of this project has encouraged me to explore further opportunities in IT and community-based initiatives.
+- **www.jouf.app:** As a personal project, I developed and launched [www.jouf.app](www.jouf.app), a platform created freely for my community in Al Jouf. This project helps residents and airport staff stay updated on flight schedules and provides helpful information about travel and aviation. The success of this project has encouraged me to explore further opportunities in IT and community-based initiatives.
 
 My role as a **Field Engineer** requires the ability to work in fast-paced, high-pressure environments, handling multiple projects simultaneously while maintaining a focus on modernizing and improving the airport’s IT infrastructure. I am committed to driving innovation and efficiency within the aviation industry and contributing to my local community through technology. 
 
